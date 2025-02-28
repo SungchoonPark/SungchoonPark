@@ -3,9 +3,10 @@
 - 코드를 작성하고 리팩토링 하는 과정을 좋아하며 누구든 읽기 쉬운 코드를 작성하고자 합니다.
 ---
 ## 🏆 Awards
-- [2024.11.11] TOPCIT 22회 정기평가 760점 (4수준), 육군참모총장상 수상
-- [2024.06.13] 2024 졸업작품 우수상   🔗[Repository](https://github.com/SungchoonPark/Cs-Chatbot-server)
-- [2024.01.16] 2023 창의융합 캡스톤디자인 아이디어 공모전 대상   🔗[Repository](https://github.com/SungchoonPark/fx-capstone)
+- [2025.02.28] 카카오테크 부트캠프 해커톤, <strong>카카오대표이사상(본상)</strong> 수상
+- [2024.11.11] TOPCIT 22회 정기평가 760점 (4수준), <strong>육군참모총장상</strong> 수상
+- [2024.06.13] 2024 졸업작품 <strong>우수상</strong>   🔗[Repository](https://github.com/SungchoonPark/Cs-Chatbot-server)
+- [2024.01.16] 2023 창의융합 캡스톤디자인 아이디어 공모전 <strong>대상</strong>   🔗[Repository](https://github.com/SungchoonPark/fx-capstone)
 
 ---
 ## ⭐️ Tech Stack
