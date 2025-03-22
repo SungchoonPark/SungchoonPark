@@ -4,12 +4,13 @@
 ---
 ## 🏆 Awards
 - [2025.02.28] 카카오테크 부트캠프 해커톤, <strong>카카오대표이사상(본상)</strong> 수상
+- [2025.01.10] AI 창업가정신 부트캠프, <strong>장려상</strong> 수상
 - [2024.11.11] TOPCIT 22회 정기평가 760점 (4수준), <strong>육군참모총장상</strong> 수상
-- [2024.06.13] 2024 졸업작품 <strong>우수상</strong>   🔗[Repository](https://github.com/SungchoonPark/Cs-Chatbot-server)
-- [2024.01.16] 2023 창의융합 캡스톤디자인 아이디어 공모전 <strong>대상</strong>   🔗[Repository](https://github.com/SungchoonPark/fx-capstone)
+- [2024.06.13] 2024 졸업작품 <strong>우수상</strong> 수상   🔗[살펴보기](https://github.com/SungchoonPark/Cs-Chatbot-server)
+- [2024.01.16] 2023 창의융합 캡스톤디자인 아이디어 공모전 <strong>대상</strong> 수상   🔗[살펴보기](https://github.com/SungchoonPark/fx-capstone)
 
 ---
-## ⭐️ Tech Stack
+## ⭐️ Learn About
 ### Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
