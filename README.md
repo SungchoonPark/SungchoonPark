@@ -10,7 +10,7 @@
 - [2024.01.16] 2023 창의융합 캡스톤디자인 아이디어 공모전 <strong>대상</strong> 수상   🔗[살펴보기](https://github.com/SungchoonPark/fx-capstone)
 
 ---
-## ⭐️ Learn About
+## ⭐️ Learn About
 ### Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
